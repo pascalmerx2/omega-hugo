@@ -1,18 +1,18 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Omega"
+  title : "Solution ARM"
   content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
-    label : "WHAT WE DO"
+    label : "ce que nous avons à faire "
     link : "#products"
 
 #################### Mission #####################
 mission:
   enable : true
-  title : "Propel Advancement"
+  title : "Propositions"
   section : "MISSION"
   content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
   video_thumb: "images/video-thumb.jpg"
@@ -21,7 +21,7 @@ mission:
 
 #################### Vission #####################
 vision:
-  enable : true
+  enable : false
   section : "VISION"
   vision_item:
   - title : "People First"
@@ -71,7 +71,7 @@ contact:
   
 ################### call to action #################
 call_to_action:
-  enable : true
+  enable : false
   title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
   button_link : "career"
