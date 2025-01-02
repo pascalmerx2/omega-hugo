@@ -6,7 +6,7 @@ description: "Do what you enjoy, invest for your future and reap the benefits of
 
 ######### about ###############
 about:
-  enable : true
+  enable : false
   title : "Who we're looking for"
   content : "Bright, educated and hard working individuals who put professionalism first."
   video_thumb : "images/promo-video-thumbnail.jpg"
@@ -15,7 +15,7 @@ about:
 
 ########### Gallery ##########
 gallery:
-  enable : true
+  enable : false
   images:
   - "images/gallery/gallery-01.png"
   - "images/gallery/gallery-02.png"
@@ -24,7 +24,7 @@ gallery:
 
 ########### funfacts ##########
 funfacts:
-  enable : true
+  enable : false
   title : "amenities for you to enjoy"
   funfacts_item:
   - name : "Flexible hours"
@@ -45,7 +45,7 @@ funfacts:
     
 ########### Career ############
 career:
-  enable : true
+  enable : false
   title : "Job Opening"
   job_item:
   - name : "Android Developer"
